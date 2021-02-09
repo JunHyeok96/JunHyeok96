@@ -9,6 +9,7 @@ Backend, Infra, Computer Vision, Deep Learning
 - 양재R&D혁신허브 AI스쿨 실무자 양성과정 3기 (2019.06 ~ 2019.08)
 
 ### :computer:Career
+- 네이버 예약 플랫폼 BE 인턴 (2021.02 ~ )
 - 네이버 웹툰 리서치 엔지니어 인턴 (2020.06 ~ 2020.09)
 - 데이터밍고 vision 인턴 (2019.12 ~ 2020.02)
 
