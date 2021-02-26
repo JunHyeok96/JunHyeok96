@@ -11,7 +11,6 @@ Backend, Infra, Computer Vision, Deep Learning
 ### :computer:Career
 - 네이버 예약 플랫폼 BE 인턴 (2021.02 ~ )
 - 네이버 웹툰 리서치 엔지니어 인턴 (2020.06 ~ 2020.09)
-- 데이터밍고 vision 인턴 (2019.12 ~ 2020.02)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://jgrammer.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:gurwns5580@gmail.com)
