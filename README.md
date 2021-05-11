@@ -2,7 +2,9 @@
 
 ### :fire:Interest
 
-Backend 
+- Server performance
+- CI/CD
+- Fault tolerance System
 
 ### :pencil2:Education
 - 세종대학교 전자정보통신공학과 (2015.03 ~ 2021.2)
